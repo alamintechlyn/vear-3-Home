@@ -1,0 +1,2827 @@
+@media (min-width: 1400px) {
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+
+  /* header css start */
+    .vear-container{
+        width: 1100px !important;
+    }
+  /* header css end */
+
+  /* service css start */
+  .serv3 {
+    top: 38% !important;
+    right: 114px !important;
+  }
+  .serv4 {
+    right: 260px !important;
+    top: 60% !important; 
+  }
+  .serv2 {
+    left: 67px !important;
+    top: 245px !important;
+  }
+  .serv1 {
+    right: 256px !important;
+    top: 100px !important;
+  }
+  
+
+  /* service css end */
+
+
+  /* latest css start */
+
+  .gretest img {
+    width: 363px !important;
+    height: auto !important;
+  }
+  .gretest .img .btn2 {
+    left: 378px !important;
+  }
+  .gretest .img .btn3 {
+    right: 174px !important;
+    top: 15.9rem !important;
+  }
+
+  .gretest {
+    grid-gap: 15px !important;
+    display: flex;
+  }
+  .text h2 {
+    padding-top: 68px !important;
+  }
+  /* latest css end */
+/* protfolio css start */
+.protfolioImage img {
+  width: 209px !important;
+  height: 294px !important;
+}
+/* protfolio css end */
+  
+
+  
+}
+@media(min-width:992px) and (max-width:1199.98px){
+
+    /* navbar css start */
+    .vear-container{
+        max-width: 960px;
+    }
+    .nav ul li {
+        margin-right: 33px !important;
+      }
+    /* navbar css end */
+
+    /* banner css start */
+    .textArea h1 {
+        font-size: 48px !important;
+        line-height: 65px !important;
+      }
+      .textArea h3 {
+        font-size: 12px !important;
+      }
+      .email p {
+        font-size: 14px !important;
+      }
+      .infoBanner {
+        padding: 18px 36px !important; 
+    }
+
+        .infoBanner img {
+            width: 50px !important;
+            height: 50px !important;
+            margin-top: 14px;
+          }
+
+          .textArea p {
+            padding-bottom: 14px !important;
+          }
+          .imgArea img {
+            width: 350px !important;
+            padding-left: 3rem !important;
+          }
+
+          .countup {
+            left: 16px !important;
+            top: -9% !important;
+          }
+          .countdow {
+            right: 68px !important;
+            bottom: 25% !important;
+          }
+    /* banner css end */
+
+    /* service css start */
+    .serv2 {
+      width: 150px !important;
+      height: 150px !important;
+      left: 87px !important;
+      top: 228px !important;
+    }
+    .serv2 img {
+      width: 33px !important;
+      height: auto !important;
+    }
+    .serv4 {
+      width: 150px !important;
+      height: 150px !important;
+      right: 226px !important;
+      top: 57.3% !important;
+    }
+    .serviceShape img {
+      left: 39% !important;
+    }
+    .serv1 {
+      width: 150px!important;
+      height: 150px!important;
+      right: 225px!important;
+      top: 116px!important;
+    }
+    .serv1 img {
+      width: 33px !important;
+      height: auto !important;
+    }
+    .serv3 {
+      width: 150px!important;
+      height: 150px!important;
+      top: 230px!important;
+      right: 112px!important;
+    }
+    .serv3 h2 {
+      font-size: 15px !important;
+      padding-top: 56px !important;
+      padding-right: 33px !important;
+    }
+    .serv3 img {
+      width: 33px !important;
+      height: auto !important;
+      top: 23% !important;
+    }
+
+    .serv2 h2 {
+      font-size: 15px !important;
+      padding-top: 56px !important;
+      padding-right: 33px !important;
+    }
+
+    .serv1 h2 {
+      font-size: 15px !important;
+      padding-top: 56px !important;
+      padding-right: 33px !important;
+    }
+    .serv4 h2 {
+      font-size: 15px !important;
+      padding-top: 56px !important;
+      padding-right: 33px !important;
+    }
+
+    .serv4 img {
+      width: 33px !important;
+      height: auto !important;
+    }
+
+    .serviceDown h2 {
+      font-size: 19px !important;
+    }
+    .serviceDown p {
+      font-size: 15px !important;
+    }
+    .serviceRight p {
+      padding-bottom: 25px !important;
+    }
+    /* service css end */
+
+
+    /* experience css start */
+    
+    .mainExperience {
+      flex-direction: column;
+      text-align: center;
+  }
+  .textExperice, .imgExperiece {
+      width: 100%;
+  }
+  .imgExperiece img {
+      max-width: 100%;
+      height: auto;
+  }
+    
+    /* experience css end */
+
+
+
+    /* slider css start */
+
+    .slideText {
+      width: 543px !important;
+    }
+    .slideText p {
+      font-size: 19px !important; 
+    }
+
+    /* slider css end */
+
+
+    /* question css start */
+    .quetionText h3 {
+      margin-left: 3px !important;
+    }
+    .accordian ::after {
+      left: 2% !important;
+    }
+
+    .questionshpae img {
+      left: 17% !important;
+    }
+    .quetionText h5 {
+      padding-left: 2rem !important;
+    }
+    /* question css end */
+
+    /* latest css start */
+
+  .gretest img {
+    width: 298px !important;
+    height: auto !important;
+  }
+  .gretest .img .btn2 {
+    left: 326px !important;
+    top: 196px !important;
+  }
+  .gretest .img .btn3 {
+    right: 139px !important;
+    top: 198px !important;
+  }
+  .gretest .img .btn1 {
+    top: 198px !important;
+  }
+
+  .gretest {
+    grid-gap: 28px !important;
+    display: flex;
+    grid-template-columns: 31% 31% 31% !important;
+  }
+  .text h2 {
+    padding-top: 68px !important;
+  }
+
+  .text h2 {
+    font-size: 17px !important;
+  }
+  .text p {
+    font-size: 15px !important; 
+  }
+  .text h5 {
+    font-size: 15px !important;
+  }
+  .latestShape img {
+    left: 30% !important;
+  }
+
+  .text h6 {
+    font-size: 14px !important;
+  }
+  /* latest css end */
+
+  /* fotter css start */
+  .mainfotter{
+    grid-template-columns: 30% 25% 20% 25% !important;
+    grid-gap: 1rem !important;
+}
+  /* fotter css end */
+
+
+  /* protfolio css start */
+  .protfolioImage img {
+    width: 221px !important;
+    padding: 5px !important;
+  }
+  /* protfolio css end */
+
+   /* protfolio css start */
+   .protfolioImage img {
+    width: 153px !important;
+    padding: 5px !important;
+    height: 245px !important;
+  }
+  .mainProt {
+    padding-top: 59px !important;
+    padding-left: 77px !important;
+    padding-bottom: 26px !important;
+  }
+  .shap img {
+    left: 39.5% !important;
+  }
+
+  .protfolioText button {
+    margin-bottom: 10px !important;
+    line-height: 107px !important;
+  }
+
+  /* protfolio css end */
+     
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+
+    /* nav bar css start */
+    .vear-container {
+        max-width: 720px;
+      }
+      .nav ul li {
+        margin-right: 13px !important;
+      }
+      .Headericon a i{
+        margin-right: -14px !important;
+      }
+      .nav button a {
+        padding: 38px 25px !important;
+      }
+    /* nav bar css end */
+
+
+
+    /* banner css start */
+    .textArea h1 {
+        font-size: 36px !important;
+        line-height: 55px !important;
+      }
+      .textArea h3 {
+        font-size: 10px !important;
+      }
+
+      .textArea p {
+        font-size: 18px !important;
+        line-height: 27.4px !important;
+      }
+     
+      .email p {
+        font-size: 13px !important;
+      }
+      .infoBanner {
+        padding: 18px 28px !important; 
+    }
+
+        .infoBanner img {
+            width: 40px !important;
+            height: 40px !important;
+            margin-top: 8px;
+            margin-left: 4px;
+          }
+          .imgArea img {
+            width: 310px !important;
+            padding-left: 2rem !important;
+          }
+
+          .countup {
+            left: 16px !important;
+            top: -9% !important;
+          }
+          .countdow {
+            right: 68px !important;
+            bottom: 25% !important;
+          }
+    /* banner css end */
+
+  /* service css start */
+
+  .serviceRight h2 {
+    font-size: 25px !important; 
+  }
+  .serv2 {
+    width: 100px !important;
+    height: 100px !important;
+    left: 80px !important;
+    top: 196px !important;
+  }
+  .serv2 img {
+    width: 33px !important;
+    height: auto !important;
+    top: 18% !important;
+    left: 15px !important;
+  }
+  .serv4 {
+    width: 100px !important;
+    height: 100px !important;
+    right: 170px !important;
+    top: 48% !important;
+  }
+  .serviceShape img {
+    left: 35% !important;
+  }
+  .serv1 {
+    width: 100px!important;
+    height: 100px!important;
+    right: 172px!important;
+    top: 116px!important;
+  }
+  .serv1 img {
+    width: 25px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+  .serv3 {
+    width: 100px !important;
+    height: 100px !important;
+    top: 194px !important;
+    right: 91px !important;
+  }
+  .serv3 h2 {
+    font-size: 13px !important;
+    padding-top: 47px !important;
+    padding-right: 8px !important;
+  }
+  .serv3 img {
+    width: 30px !important;
+    height: auto !important;
+    left: 17px !important;
+    top: 19% !important;
+}
+
+  .serv2 h2 {
+    font-size: 13px !important;
+    padding-top: 36px !important;
+    padding-right: 14px !important;
+  }
+
+  .serv1 h2 {
+    font-size: 13px !important;
+    padding-top: 33px !important;
+    padding-right: 16px !important;
+  }
+  .serv4 h2 {
+    font-size: 13px !important;
+    padding-top: 41px !important;
+    padding-right: 10px !important;
+  }
+
+  .serv4 img {
+    width: 30px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+
+  .serviceDown h2 {
+    font-size: 13px !important;
+    font-weight: 700 !important;
+  }
+  .serviceDown p {
+    font-size: 15px !important;
+  }
+  .serviceRight p {
+    padding-bottom: 13px !important;
+    font-size: 13px !important;
+    line-height: 28.4px !important;
+  }
+
+  #service {
+    padding-top: 150px;
+  }
+  /* service css end */
+
+
+/* experience css start */
+
+.mainExperience {
+  grid-template-columns: 100% !important;
+}
+.ExperienceShape img {
+  left: 35.5% !important;
+}
+
+.textExperice h2 {
+  text-align: center;
+  padding-top: 2.5rem !important;
+  padding-bottom: 20px;
+}
+
+.imgExperiece img {
+  width: 719px !important;
+  height: auto !important;
+}
+/* experience css end */
+
+/* slider css start */
+.slideText {
+  width: 401px !important;
+  height: 665px !important;
+}
+.slideText {
+  padding: 56px 38px 102px 44px !important;
+}
+
+.slideText p {
+  font-size: 17px !important;
+  line-height: 36.7px !important;
+}
+.slideText h4 {
+  font-size: 18px !important;
+  padding-left: 20px !important;
+ }
+.slideText h5 {
+  font-size: 14px !important;
+  padding-left: 19px !important;
+}
+.slick-dotted.slick-slider {
+  margin-bottom: 144px !important;
+}
+
+#form .slick-dots li button {
+  top: -66px !important;
+  left: -51px !important;
+}
+
+.review {
+  padding-left: 20px !important;
+}
+
+/* slider css end */
+
+/* question css start */
+.quetionText h3 {
+  margin-left: 3px !important;
+  font-size: 15px !important;
+  padding-bottom: 0px !important;
+}
+.accordian ::after {
+  left: 2% !important;
+  width: 691px !important;
+  top: 60.4% !important;
+}
+
+.questionshpae img {
+  left: 7% !important;
+}
+.quetionText h5 {
+  padding-left: 2rem !important;
+  font-size: 15px !important;
+  width: 647px !important;
+}
+
+.quetionText span {
+  margin-left: 7rem !important;
+}
+/* question css end */
+
+/* latest css start */
+
+.gretest img {
+  width: 223px !important;
+  height: auto !important;
+}
+.gretest .img .btn2 {
+  left: 251px !important;
+  top: 149px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+.gretest .img .btn3 {
+  right: 95px !important;
+  top: 148px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+.gretest .img .btn1 {
+  left: 0px !important;
+  top: 148px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+
+.gretest {
+  grid-gap: 28px !important;
+  display: flex;
+  grid-template-columns: 31% 31% 31% !important;
+}
+.text h2 {
+  padding-top: 68px !important;
+}
+
+.text h2 {
+  font-size: 16px !important;
+}
+.text p {
+  font-size: 15px !important; 
+}
+.text h5 {
+  font-size: 15px !important;
+}
+.latestShape img {
+  left: 24% !important;
+}
+
+.text h6 {
+  font-size: 12px !important;
+}
+/* latest css end */
+
+   /* fotter css start */
+   .mainfotter{
+    grid-template-columns: 30% 25% 18% 27% !important;
+    grid-gap: 0rem !important;
+  }
+  /* fotter css end */
+
+
+   /* protfolio css start */
+ .protfolioImage img {
+  width: 118px !important;
+  padding: 5px !important;
+  height: 177px !important;
+}
+
+.shap img {
+left: 36.5% !important;
+}
+
+.protfolioText button {
+  font-size: 59px !important;
+  line-height: 68px !important;
+  padding-bottom: 14px !important;
+}
+.mainProt {
+  padding-top: 34px !important;
+  padding-left: 53px !important;
+  padding-bottom: 34px !important;
+}
+
+}
+
+
+
+
+
+
+/* protfolio css end */
+@media (min-width: 576px) and (max-width: 767px) {
+ 
+  /* Header css start */
+    .vear-container {
+        max-width: 540px;
+      }
+      .Headericon a {
+        margin-top: 2px !important;
+        color: #FFF !important;
+      }
+      .Headericon a i{
+        margin-right: 18px !important;
+      }
+      .nav button a {
+        width: 11rem;
+        padding:  4px !important;
+      }
+      .nav button{
+       margin: 10px 0 !important;
+       margin-right: 42px !important;
+      }
+
+
+      .toggleBtn i{
+        display: block !important;
+      }
+      .nav {
+        display: none !important;
+    }
+    .nav.active {
+        display: block !important;
+        position: absolute;
+        top: 7%;
+        left: 0;
+        background: #E85442;
+        width: 100%;
+        z-index: 1;
+        text-align: center;
+    }
+    .logo img {
+        padding-top: 15px;
+      }
+      .nav ul {
+        display: inline-block !important;
+        margin-top: 13px !important;
+      }
+      .nav ul li a {
+        margin-bottom: 18px;
+        color: white !important;
+      }
+      .nav ul li a span{
+        display: none;
+      }
+      .nav ul li a:hover{
+        color: #E85442 !important;
+        background: #fff;
+        padding: 10px 20px;
+      }
+    
+      /* Header css end */
+
+
+      /* banner css start */
+    .textArea h1 {
+      font-size: 36px !important;
+      line-height: 55px !important;
+    }
+    .textArea h3 {
+      font-size: 10px !important;
+    }
+
+    .textArea p {
+      font-size: 18px !important;
+      line-height: 27.4px !important;
+    }
+   
+    .email p {
+      font-size: 13px !important;
+    }
+    .infoBanner {
+      padding: 18px 28px !important; 
+  }
+
+      .infoBanner img {
+          width: 40px !important;
+          height: 40px !important;
+          margin-top: 8px;
+          margin-left: 4px;
+        }
+        .imgArea img {
+          width: 330px !important;
+          padding-left: 6rem !important;
+        }
+
+        .countup {
+          left: 30px !important;
+          top: -12% !important;
+        }
+        .countdow {
+          right: 29px !important;
+          bottom: 9% !important;
+        }
+
+        .mainBanner {
+          grid-template-columns: 100% !important;
+        }
+  /* banner css end */
+
+  /* service part start */
+  .mainService {
+    grid-template-columns: 100% !important;
+  }
+  
+  .serviceLeft {
+    padding-top: 353px !important;
+  }
+
+  .serviceRight h2 {
+    font-size: 25px !important; 
+  }
+  .serv2 {
+    width: 100px !important;
+    height: 100px !important;
+    left: 126px !important;
+    top: 163px !important;
+  }
+  .serv2 img {
+    width: 33px !important;
+    height: auto !important;
+    top: 18% !important;
+    left: 15px !important;
+  }
+  .serv4 {
+    width: 100px !important;
+    height: 100px !important;
+    right: 132px !important;
+    top: 162px !important;
+  }
+  .serviceShape img {
+    left: 31% !important;
+  }
+  .serv1 {
+    width: 100px !important;
+    height: 100px !important;
+    right: 221px !important;
+    top: 72px !important;
+  }
+  .serv1 img {
+    width: 25px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+  .serv3 {
+    width: 100px !important;
+    height: 100px !important;
+    top: 250px !important;
+    right: 220px !important;
+  }
+  .serv3 h2 {
+    font-size: 13px !important;
+    padding-top: 47px !important;
+    padding-right: 8px !important;
+  }
+  .serv3 img {
+    width: 30px !important;
+    height: auto !important;
+    left: 17px !important;
+    top: 19% !important;
+}
+
+  .serv2 h2 {
+    font-size: 13px !important;
+    padding-top: 36px !important;
+    padding-right: 14px !important;
+  }
+
+  .serv1 h2 {
+    font-size: 13px !important;
+    padding-top: 33px !important;
+    padding-right: 16px !important;
+  }
+  .serv4 h2 {
+    font-size: 13px !important;
+    padding-top: 41px !important;
+    padding-right: 10px !important;
+  }
+
+  .serv4 img {
+    width: 30px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+
+  .serviceDown h2 {
+    font-size: 13px !important;
+    font-weight: 700 !important;
+  }
+  .serviceDown p {
+    font-size: 15px !important;
+  }
+  .serviceRight p {
+    padding-bottom: 13px !important;
+    font-size: 13px !important;
+    line-height: 28.4px !important;
+  }
+
+  #service {
+    padding-top: 100px !important;
+  }
+
+  .serviceRight {
+    padding-top: 34px !important;
+  }
+
+  /* service part end */
+
+
+
+  /* experience css start */
+  
+/* experience css start */
+
+.mainExperience {
+  grid-template-columns: 100% !important;
+
+
+}
+.textExperice h2 {
+  text-align: center;
+  padding-top: 0rem !important;
+  padding-bottom: 20px;
+  font-size: 32px !important;
+  line-height: 54px !important;
+}
+
+.imgExperiece img {
+  width: 539px !important;
+  height: auto !important;
+}
+.softec {
+  padding-left: 0em !important;
+}
+.softec h3 {
+  font-size: 19px !important;
+}
+.present h3 {
+  font-size: 17px !important;
+}
+.present {
+  padding-left: 1em !important;
+}
+
+.present p {
+  font-size: 12px;
+}
+  
+.ExperienceShape img {
+  left: 29.5% !important;
+}
+
+/* experience css end */
+
+
+/* slider css start */
+.slideText {
+  width: 401px !important;
+  height: 665px !important;
+}
+.slideText {
+  padding: 56px 38px 102px 44px !important;
+}
+
+.slideText p {
+  font-size: 20px !important;
+  line-height: 38.7px !important;
+}
+.slideText h4 {
+  font-size: 16px !important;
+    padding-left: 20px !important;
+ }
+.slideText h5 {
+  font-size: 14px !important;
+    padding-left: 19px !important;
+}
+.slick-dotted.slick-slider {
+  margin-bottom: 144px !important;
+}
+.review a i {
+  font-size: 13.26px !important;
+}
+
+#form .slick-dots li button {
+  top: -66px !important;
+  left: -51px !important;
+}
+
+.review {
+  padding-left: 20px !important;
+}
+
+.mainForm {
+  grid-template-columns: 100% !important;
+}
+
+.form input {
+  margin-bottom: 15px !important;
+}
+
+.slideText{
+  width: 538px !important;
+  height: 511px !important;
+  left: 1px !important;
+  bottom: -458px !important;
+  padding: 26px !important;
+}
+.form {
+  padding: 332px 0 !important;
+}
+
+/* slider css end */
+
+
+/* question css start */
+.quetionText h3 {
+    margin-left: 3px !important;
+    font-size: 16px !important;
+    padding-bottom: 0px !important;
+    padding-top: 46px !important;
+}
+.accordian ::after {
+  left: 2% !important;
+  width: 520px !important;
+  top: 52% !important;
+}
+
+.questionshpae img {
+  left: 7% !important;
+  width: 462px;
+}
+.quetionText h5 {
+  padding-left: 2rem !important;
+  font-size: 15px !important;
+  width: 485px !important;
+  padding-top: 26px !important;
+}
+
+.quetionText span {
+  margin-left: 3px !important;
+    font-size: 10px !important;
+    padding-bottom: 0px !important;
+}
+
+.quetionHeading h2 {
+  font-size: 52px !important;
+}
+/* question css end */
+
+
+
+/* latest css start */
+
+.gretest img {
+  width: 540px !important;
+  height: auto !important;
+}
+.gretest .img .btn2 {
+  left: 0px !important;
+  top: 75.6rem !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+.gretest .img .btn3 {
+  right: 417px !important;
+  top: 126.5rem !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+.gretest .img .btn1 {
+  left: 0px !important;
+  top: 392px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+
+.gretest {
+  grid-gap: 28px !important;
+  display: flex;
+  grid-template-columns: 100% !important;
+}
+.text h2 {
+  padding-top: 68px !important;
+}
+
+.text h2 {
+  font-size: 22px !important;
+}
+.text p {
+  font-size: 19px !important;
+}
+.text h5 {
+  font-size: 18px !important;
+}
+.latestShape img {
+  left: 15% !important;
+}
+
+.text h6 {
+  font-size: 18px !important;
+}
+/* latest css end */
+
+
+/* latest css end */
+
+   /* fotter css start */
+   .mainfotter{
+    grid-template-columns: 49% 49% !important;
+    grid-gap: 0.5rem !important;
+}
+
+.col1 p {
+  font-size: 15px !important;
+  line-height: 28.4px !important;
+}
+
+
+.col1 img {
+  width: 120.62px;
+  height: auto;
+}
+
+.icon a i {
+  margin-right: 25.99px !important;
+  margin-bottom: 0px !important;
+}
+
+.col1 img {
+  padding-bottom: 19px;
+}
+
+.col1 img {
+  margin-top: 49px !important;
+}
+.col1 h2 {
+  margin-top: 27px !important;
+}
+  /* fotter css end */
+
+
+  
+ /* protfolio css start */
+ .protfolioImage img {
+  width: 84px !important;
+  padding: 5px !important;
+  height: 130px !important;
+}
+
+.protfolioText button {
+  font-size: 42px !important;
+  line-height: 59px !important;
+  padding-bottom: 9px !important;
+}
+
+.mainProt {
+  padding-top: 23px !important;
+  padding-left: 38px !important;
+  padding-bottom: 21px !important;
+  margin-top: 12px;
+}
+
+.shap img {
+  left: 31.5% !important;
+}
+
+/* protfolio css end */
+
+
+
+
+
+
+
+}
+
+@media (min-width: 520px) and (max-width: 575.98px) {
+  
+  /* Header css start */
+    .vear-container {
+        max-width: 420px;
+        margin: auto !important;
+      }
+      .Headericon a {
+        margin-top: 2px !important;
+        color: #FFF !important;
+      }
+      .Headericon a i{
+        margin-right: -25px !important;
+      }
+      .nav button a {
+        width: 11rem;
+        padding:  4px !important;
+      }
+      .nav button{
+       margin: 10px 0 !important;
+       margin-right: 0px !important;
+      }
+
+
+      .toggleBtn i{
+        display: block !important;
+      }
+      .nav {
+        display: none !important;
+    }
+    .nav.active {
+        display: block !important;
+        position: absolute;
+        top: 7%;
+        left: 0;
+        background: #E85442;
+        width: 100%;
+        z-index: 1;
+        text-align: center;
+    }
+    .logo img {
+        padding-top: 15px;
+      }
+      .nav ul {
+        display: inline-block !important;
+        margin-top: 13px !important;
+        margin-left: 48px;
+      }
+      .nav ul li a {
+        margin-bottom: 18px;
+        color: white !important;
+      }
+      .nav ul li a span{
+        display: none;
+      }
+      .nav ul li a:hover{
+        color: #E85442 !important;
+        background: #fff;
+        padding: 10px 20px;
+      }
+      /* Header css end */
+
+
+
+      /* banner css start */
+    .textArea h1 {
+      font-size: 35px !important;
+      line-height: 50px !important;
+    }
+    .textArea h3 {
+      font-size: 9px !important;
+    }
+
+    .textArea p {
+      font-size: 13px !important;
+      line-height: 27.4px !important;
+    }
+   
+    .email p {
+      font-size: 13px !important;
+    }
+    .infoBanner {
+      padding: 18px 28px !important; 
+  }
+
+      .infoBanner img {
+          width: 40px !important;
+          height: 40px !important;
+          margin-top: 8px;
+          margin-left: 4px;
+        }
+        .imgArea img {
+          width: 330px !important;
+          padding-left: 0rem !important;
+        }
+
+        .textcounter h4 {
+          font-size: 19px !important;
+        }
+        .coundDownText h4{
+          font-size: 19px !important;
+        }
+        .textcounter p {
+          font-size: 12px !important;
+        }
+        .coundDownText p{
+          font-size: 12px !important;
+        }
+        .countercalander i {
+          font-size: 19px !important;
+          padding: 7px 8px !important;
+          margin-top: 8px;
+        }
+        .iconCount i{
+          font-size: 19px !important;
+          padding: 7px 8px !important;
+          margin-top: 8px;
+        }
+        .countup {
+          width: 167px !important;
+          height: 52px !important;
+          padding: 7px 10px !important;
+          left: -24px !important;
+          top: -5% !important;
+        }
+        .countdow {
+          right: -12px !important;
+          bottom: 9% !important;
+          width: 167px !important;
+          height: 52px !important;
+          padding: 7px 10px !important;
+        }
+
+        .mainBanner {
+          grid-template-columns: 100% !important;
+        }
+        #banner {
+          padding-top: 105px !important;
+        }
+  /* banner css end */
+
+
+  /* service part start */
+  .mainService {
+    grid-template-columns: 100% !important;
+  }
+  
+  .serviceLeft {
+    padding-top: 353px !important;
+  }
+
+  .serviceRight h2 {
+    font-size: 34px !important; 
+  }
+  .serv2 {
+    width: 100px !important;
+    height: 100px !important;
+    left: 193px !important;
+    top: 215px !important;
+  }
+  .serv2 img {
+    width: 33px !important;
+    height: auto !important;
+    top: 18% !important;
+    left: 15px !important;
+  }
+  .serv4 {
+    width: 100px !important;
+    height: 100px !important;
+    right: 47px !important;
+    top: 137px !important;
+  }
+  .serviceShape img {
+    left: 20% !important;
+  }
+  .serv1 {
+    width: 100px !important;
+    height: 100px !important;
+    right: 127px !important;
+    top: 59px !important;
+  }
+  .serv1 img {
+    width: 25px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+  .serv3 {
+    width: 100px !important;
+    height: 100px !important;
+    top: 137px !important;
+    right: 207px !important;
+  }
+  .serv3 h2 {
+    font-size: 13px !important;
+    padding-top: 47px !important;
+    padding-right: 8px !important;
+  }
+  .serv3 img {
+    width: 30px !important;
+    height: auto !important;
+    left: 17px !important;
+    top: 19% !important;
+}
+
+  .serv2 h2 {
+    font-size: 13px !important;
+    padding-top: 36px !important;
+    padding-right: 14px !important;
+  }
+
+  .serv1 h2 {
+    font-size: 13px !important;
+    padding-top: 33px !important;
+    padding-right: 16px !important;
+  }
+  .serv4 h2 {
+    font-size: 13px !important;
+    padding-top: 41px !important;
+    padding-right: 10px !important;
+  }
+
+  .serv4 img {
+    width: 30px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+
+  .serviceDown h2 {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+  }
+  .serviceDown p {
+    font-size: 15px !important;
+  }
+  .serviceRight p {
+    padding-bottom: 20px !important;
+    font-size: 17px !important;
+    line-height: 28.4px !important;
+  }
+
+  #service {
+    padding-top: 100px !important;
+  }
+
+  .serviceRight {
+    padding-top: 0px !important;
+  }
+
+  /* service part end */
+
+
+  /* experience css start */
+
+  .ExperienceShape img {
+    left: 17.5% !important;
+  }
+
+.mainExperience {
+  grid-template-columns: 100% !important;
+
+
+}
+.textExperice h2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 20px;
+  font-size: 36px !important;
+}
+
+.imgExperiece img {
+  width: 348px !important;
+  height: auto !important;
+}
+.col{
+  display: none;
+}
+.softec{
+  padding-left: 0px !important;
+}
+.softec h3 {
+  font-size: 21px !important;
+  line-height: 26px !important;
+  padding-left: 32px;
+  padding-top: 62px !important;
+}
+
+.present {
+  padding-left: 2em !important;
+}
+.proExperience {
+  grid-template-columns: 100% !important;
+}
+.present h3 {
+  font-size: 22px !important;
+  padding-top: 10px;
+}
+
+.present h4 {
+  padding-top: 21px !important;
+  padding-bottom: 0 !important;
+}
+
+.present ::after {
+  width: 100% !important;
+  top: 30px !important;
+}
+
+
+/* experience css end */
+
+/* slider css start */
+.slideText {
+  width: 401px !important;
+  height: 665px !important;
+}
+.slideText {
+  padding: 56px 38px 102px 44px !important;
+}
+
+.slideText p {
+  font-size: 14px !important;
+  line-height: 33.7px !important;
+}
+.slideText h4 {
+  font-size: 14px !important;
+    padding-left: 20px !important;
+ }
+.slideText h5 {
+  font-size: 13px !important;
+    padding-left: 19px !important;
+}
+.slick-dotted.slick-slider {
+  margin-bottom: 144px !important;
+}
+.review a i {
+  font-size: 12.26px !important;
+}
+
+#form .slick-dots li button {
+  top: -66px !important;
+  left: -28px !important;
+}
+
+.review {
+  padding-left: 20px !important;
+}
+
+.mainForm {
+  grid-template-columns: 100% !important;
+}
+
+.form input {
+  margin-bottom: 15px !important;
+}
+
+.slideText{
+  width: 348px !important;
+  height: 511px !important;
+  left: 1px !important;
+  bottom: -458px !important;
+  padding: 26px !important;
+}
+.form {
+  padding: 332px 0 !important;
+}
+
+
+/* slider css end */
+
+/* question css start */
+.quetionText h3 {
+  margin-left: 3px !important;
+  font-size: 13px !important;
+  padding-bottom: 0px !important;
+}
+.accordian ::after {
+  left: 2% !important;
+  width: 339px !important;
+}
+
+.questionshpae img {
+  left: 1% !important;
+  width: 347px;
+}
+.quetionText h5 {
+  padding-left: 0rem !important;
+  font-size: 10px !important;
+}
+
+.quetionText span {
+  margin-left: 3px !important;
+    font-size: 10px !important;
+    padding-bottom: 0px !important;
+}
+
+.quetionHeading h2 {
+  font-size: 44px !important;
+}
+/* question css end */
+
+/* latest css start */
+
+.gretest img {
+  width: 350px !important;
+  height: auto !important;
+}
+.gretest .img .btn2 {
+  left: 0px !important;
+    top: 849px !important;
+    padding: 8px 24px !important;
+    font-size: 16px !important;
+}
+
+.gretest .img .btn3 {
+    right: 297px !important;
+    top: 1471px !important;
+    padding: 8px 24px !important;
+    font-size: 16px !important;
+}
+.gretest .img .btn1 {
+  left: 0px !important;
+  top: 228px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+
+.gretest {
+  grid-gap: 28px !important;
+  display: flex;
+  grid-template-columns: 100% !important;
+}
+.text h2 {
+  padding-top: 32px !important;
+}
+.text h2 {
+  font-size: 19px !important;
+}
+.text p {
+  font-size: 17px !important;
+}
+.text h5 {
+  font-size: 15px !important;
+}
+.latestShape img {
+  left: 15% !important;
+}
+
+.text h6 {
+  font-size: 17px !important;
+}
+/* latest css end */
+
+
+/* latest css start */
+
+.gretest img {
+  width: 350px !important;
+  height: auto !important;
+}
+.gretest .img .btn2 {
+  left: 0px !important;
+    top: 849px !important;
+    padding: 8px 24px !important;
+    font-size: 16px !important;
+}
+
+.gretest .img .btn3 {
+    right: 297px !important;
+    top: 1471px !important;
+    padding: 8px 24px !important;
+    font-size: 16px !important;
+}
+.gretest .img .btn1 {
+  left: 0px !important;
+  top: 228px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+.gretest {
+  grid-gap: 28px !important;
+  display: flex;
+  grid-template-columns: 100% !important;
+}
+.text h2 {
+  padding-top: 32px !important;
+}
+.text h2 {
+  font-size: 19px !important;
+}
+.text p {
+  font-size: 17px !important;
+}
+.text h5 {
+  font-size: 15px !important;
+}
+.latestShape img {
+  left: 4% !important;
+}
+
+.text h6 {
+  font-size: 17px !important;
+}
+
+.latest h2 {
+  font-size: 72px !important;
+}
+/* latest css end */
+
+/* fotter css start */
+.mainfotter{
+  grid-template-columns: 49% 49% !important;
+  grid-gap: 0.5rem !important;
+}
+
+.col1 p {
+  font-size: 14px !important;
+line-height: 28.4px !important;
+}
+
+
+.col1 img {
+width: 120.62px;
+height: auto;
+}
+
+.icon a i {
+margin-right: 25.99px !important;
+margin-bottom: 0px !important;
+}
+
+.col1 img {
+padding-bottom: 19px;
+}
+
+.col1 img {
+  margin-top: 28px !important;
+}
+.col1 h2 {
+  margin-top: 31px !important;
+}
+
+.col2 ul li a {
+  font-size: 14px !important;
+  padding: 5px 0 !important;
+}
+
+.col1 p {
+  padding-bottom: -14px !important;
+}
+/* fotter css end */
+
+
+ /* protfolio css start */
+
+ .protfolioImage img {
+  width: 115px !important;
+  padding: 5px !important;
+  height: 178px !important;
+}
+.protfolioText button {
+  font-size: 28px !important;
+  line-height: 59px !important;
+  padding-bottom: 9px !important;
+}
+.mainProt {
+  padding-top: 35px !important;
+  padding-left: 55px !important;
+  padding-bottom: 35px !important;
+  margin-top: 10px;
+}
+.shap img {
+  left: 21.5% !important;
+}
+.protfolioText button {
+  -webkit-text-stroke: 1px #E85442 !important;
+}
+
+/* protfolio css end */
+
+
+}
+
+@media (min-width: 370px) and (max-width: 520.98px) {
+
+  /* Header css start */
+    .vear-container {
+        max-width: 350px;
+        margin: auto !important;
+      }
+      .Headericon a {
+        margin-top: 2px !important;
+        color: #FFF !important;
+      }
+      .Headericon a i{
+        margin-right: -25px !important;
+      }
+      .nav button a {
+        width: 11rem;
+        padding:  4px !important;
+      }
+      .nav button{
+       margin: 10px 0 !important;
+       margin-right: 0px !important;
+      }
+
+
+      .toggleBtn i{
+        display: block !important;
+      }
+      .nav {
+        display: none !important;
+    }
+    .nav.active {
+        display: block !important;
+        position: absolute;
+        top: 7%;
+        left: 0;
+        background: #E85442;
+        width: 100%;
+        z-index: 1;
+        text-align: center;
+    }
+    .logo img {
+        padding-top: 15px;
+      }
+      .nav ul {
+        display: inline-block !important;
+        margin-top: 13px !important;
+        margin-left: 48px;
+      }
+      .nav ul li a {
+        margin-bottom: 18px;
+        color: white !important;
+      }
+      .nav ul li a span{
+        display: none;
+      }
+      .nav ul li a:hover{
+        color: #E85442 !important;
+        background: #fff;
+        padding: 10px 20px;
+      }
+      /* Header css end */
+
+       /* banner css start */
+    .textArea h1 {
+      font-size: 35px !important;
+      line-height: 50px !important;
+    }
+    .textArea h3 {
+      font-size: 9px !important;
+    }
+
+    .textArea p {
+      font-size: 13px !important;
+      line-height: 27.4px !important;
+    }
+   
+    .email p {
+      font-size: 13px !important;
+    }
+    .infoBanner {
+      padding: 18px 28px !important; 
+  }
+
+      .infoBanner img {
+          width: 40px !important;
+          height: 40px !important;
+          margin-top: 8px;
+          margin-left: 4px;
+        }
+        .imgArea img {
+          width: 312px !important;
+          padding-left: .9rem !important;
+        }
+
+        .textcounter h4 {
+          font-size: 19px !important;
+        }
+        .coundDownText h4{
+          font-size: 19px !important;
+        }
+        .textcounter p {
+          font-size: 12px !important;
+        }
+        .coundDownText p{
+          font-size: 12px !important;
+        }
+        .countercalander i {
+          font-size: 19px !important;
+          padding: 7px 8px !important;
+          margin-top: 8px;
+        }
+        .iconCount i{
+          font-size: 19px !important;
+          padding: 7px 8px !important;
+          margin-top: 8px;
+        }
+        .countup {
+          width: 167px !important;
+          height: 52px !important;
+          padding: 7px 10px !important;
+          left: -2px !important;
+          top: -8% !important;
+        }
+        .countdow {
+          right: 0px !important;
+          bottom: 9% !important;
+          width: 167px !important;
+          height: 52px !important;
+          padding: 7px 10px !important;
+        }
+
+        .mainBanner {
+          grid-template-columns: 100% !important;
+        }
+        #banner {
+          padding-top: 105px !important;
+        }
+  /* banner css end */
+
+ /* service part start */
+ .mainService {
+  grid-template-columns: 100% !important;
+}
+
+.serviceLeft {
+  padding-top: 353px !important;
+}
+
+.serviceRight h2 {
+  font-size: 34px !important; 
+}
+.serv2 {
+  width: 100px !important;
+  height: 100px !important;
+  left: 124px !important;
+  top: 215px !important;
+}
+.serv2 img {
+  width: 33px !important;
+  height: auto !important;
+  top: 18% !important;
+  left: 15px !important;
+}
+.serv4 {
+  width: 100px !important;
+  height: 100px !important;
+  right: 47px !important;
+  top: 137px !important;
+}
+.serviceShape img {
+  left: 20% !important;
+}
+.serv1 {
+  width: 100px !important;
+  height: 100px !important;
+  right: 127px !important;
+  top: 59px !important;
+}
+.serv1 img {
+  width: 25px !important;
+  height: auto !important;
+  top: 15% !important;
+  left: 16px !important;
+}
+.serv3 {
+  width: 100px !important;
+  height: 100px !important;
+  top: 137px !important;
+  right: 207px !important;
+}
+.serv3 h2 {
+  font-size: 13px !important;
+  padding-top: 47px !important;
+  padding-right: 8px !important;
+}
+.serv3 img {
+  width: 30px !important;
+  height: auto !important;
+  left: 17px !important;
+  top: 19% !important;
+}
+
+.serv2 h2 {
+  font-size: 13px !important;
+  padding-top: 36px !important;
+  padding-right: 14px !important;
+}
+
+.serv1 h2 {
+  font-size: 13px !important;
+  padding-top: 33px !important;
+  padding-right: 16px !important;
+}
+.serv4 h2 {
+  font-size: 13px !important;
+  padding-top: 41px !important;
+  padding-right: 10px !important;
+}
+
+.serv4 img {
+  width: 30px !important;
+  height: auto !important;
+  top: 15% !important;
+  left: 16px !important;
+}
+
+.serviceDown h2 {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+}
+.serviceDown p {
+  font-size: 15px !important;
+}
+.serviceRight p {
+  padding-bottom: 20px !important;
+  font-size: 15px !important;
+  line-height: 28.4px !important;
+}
+
+#service {
+  padding-top: 100px !important;
+}
+
+.serviceRight {
+  padding-top: 0px !important;
+}
+
+/* service part end */
+
+/* experience css start */
+
+.ExperienceShape img {
+  left: 17.5% !important;
+}
+
+.mainExperience {
+grid-template-columns: 100% !important;
+
+
+}
+.textExperice h2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 20px;
+  font-size: 35px !important;
+  line-height: 56px !important;
+}
+
+.imgExperiece img {
+width: 348px !important;
+height: auto !important;
+}
+.col{
+display: none;
+}
+.softec{
+padding-left: 0px !important;
+}
+.softec h3 {
+font-size: 21px !important;
+line-height: 26px !important;
+padding-left: 32px;
+padding-top: 62px !important;
+}
+
+.present {
+padding-left: 2em !important;
+}
+.proExperience {
+grid-template-columns: 100% !important;
+}
+.present h3 {
+font-size: 22px !important;
+padding-top: 10px;
+}
+
+.present h4 {
+padding-top: 21px !important;
+padding-bottom: 0 !important;
+}
+
+.present ::after {
+width: 100% !important;
+top: 30px !important;
+}
+
+
+/* experience css end */
+
+/* slider css start */
+.slideText {
+  width: 401px !important;
+  height: 665px !important;
+}
+.slideText {
+  padding: 56px 38px 102px 44px !important;
+}
+
+.slideText p {
+  font-size: 13px !important;
+    line-height: 33.7px !important;
+}
+.slideText h4 {
+  font-size: 14px !important;
+    padding-left: 20px !important;
+ }
+.slideText h5 {
+  font-size: 13px !important;
+    padding-left: 19px !important;
+}
+.slick-dotted.slick-slider {
+  margin-bottom: 144px !important;
+}
+.review a i {
+  font-size: 12.26px !important;
+}
+
+#form .slick-dots li button {
+  top: -66px !important;
+  left: -28px !important;
+}
+
+.review {
+  padding-left: 20px !important;
+}
+
+.mainForm {
+  grid-template-columns: 100% !important;
+}
+
+.form input {
+  margin-bottom: 15px !important;
+}
+
+.slideText{
+  width: 348px !important;
+  height: 511px !important;
+  left: 1px !important;
+  bottom: -458px !important;
+  padding: 26px !important;
+}
+.form {
+  padding: 332px 0 !important;
+}
+
+
+/* slider css end */
+
+/* question css start */
+.quetionText h3 {
+  margin-left: 3px !important;
+  font-size: 15px !important;
+  padding-bottom: 0px !important;
+  padding-top: 46px !important;
+}
+.accordian ::after {
+  left: 2% !important;
+    width: 339px !important;
+    top: 46% !important;
+}
+
+.questionshpae img {
+  left: 1% !important;
+  width: 347px;
+}
+.quetionText h5 {
+  padding-left: 1rem !important;
+  font-size: 15px !important;
+  padding-top: 27px !important;
+  width: 344px !important;
+}
+
+.quetionText span {
+  margin-left: 3px !important;
+    font-size: 10px !important;
+    padding-bottom: 0px !important;
+}
+
+.quetionHeading h2 {
+  font-size: 73px !important;
+}
+/* question css end */
+
+
+
+/* latest css start */
+
+.gretest img {
+  width: 350px !important;
+  height: auto !important;
+}
+.gretest .img .btn2 {
+  left: 0px !important;
+  top: 866px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+.gretest .img .btn3 {
+  right: 227px !important;
+  top: 1488px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+.gretest .img .btn1 {
+    left: 0px !important;
+    top: 246px !important;
+    padding: 8px 24px !important;
+    font-size: 16px !important;
+}
+
+
+.gretest {
+  grid-gap: 28px !important;
+  display: flex;
+  grid-template-columns: 100% !important;
+}
+.text h2 {
+  padding-top: 32px !important;
+}
+.text h2 {
+  font-size: 19px !important;
+}
+.text p {
+  font-size: 15px !important;
+}
+.text h5 {
+  font-size: 15px !important;
+}
+.latestShape img {
+  left: 0% !important;
+  width: 22rem;
+}
+
+.text h6 {
+  font-size: 15px !important
+}
+/* latest css end */
+
+
+/* fotter css start */
+.mainfotter{
+  grid-template-columns: 49% 49% !important;
+  grid-gap: 0.5rem !important;
+}
+
+.col1 p {
+  font-size: 14px !important;
+line-height: 28.4px !important;
+}
+
+
+.col1 img {
+width: 120.62px;
+height: auto;
+}
+
+.icon a i {
+  margin-right: 17.99px !important;
+margin-bottom: 0px !important;
+}
+
+.col1 img {
+padding-bottom: 19px;
+}
+
+.col1 img {
+  margin-top: 28px !important;
+}
+.col1 h2 {
+  margin-top: 32px !important;
+  padding-top: 0px !important;
+}
+
+.col2 ul li a {
+  font-size: 14px !important;
+  padding: 5px 0 !important;
+}
+
+.col1 p {
+  padding-bottom: -14px !important;
+}
+
+.col1 p {
+  padding-bottom: 12px !important;
+}
+/* fotter css end */
+
+
+ /* protfolio css start */
+ .protfolioImage img {
+  width: 57px !important;
+  padding: 0px !important;
+  height: 88px !important;
+}
+
+.protfolioText button {
+  font-size: 28px !important;
+    line-height: 45px !important;
+    padding-bottom: 9px !important;
+}
+
+.mainProt {
+  padding-top: 28px !important;
+  padding-left: 29px !important;
+  padding-bottom: 19px !important;
+  margin-top: 10px;
+}
+
+.shap img {
+  left: 21.5% !important;
+}
+
+
+.protfolioText button {
+  -webkit-text-stroke: 1px #120 !important;
+}
+
+/* protfolio css end */
+
+
+}
+
+@media (max-width: 369.98px) {
+
+  /* Header css start */
+    .vear-container {
+        max-width: 320px;
+      }
+      .Headericon a {
+        margin-top: 2px !important;
+        color: #FFF !important;
+      }
+      .Headericon a i{
+        margin-right: -25px !important;
+      }
+      .nav button a {
+        width: 11rem;
+        padding:  4px !important;
+      }
+      .nav button{
+       margin: 10px 0 !important;
+       margin-right: 0px !important;
+      }
+
+
+      .toggleBtn i{
+        display: block !important;
+      }
+      .nav {
+        display: none !important;
+    }
+    .nav.active {
+        display: block !important;
+        position: absolute;
+        top: 7%;
+        left: 0;
+        background: #E85442;
+        width: 100%;
+        z-index: 1;
+        text-align: center;
+    }
+    .logo img {
+        padding-top: 15px;
+      }
+      .nav ul {
+        display: inline-block !important;
+        margin-top: 13px !important;
+        margin-left: 48px;
+      }
+      .nav ul li a {
+        margin-bottom: 18px;
+        color: white !important;
+      }
+      .nav ul li a span{
+        display: none;
+      }
+      .nav ul li a:hover{
+        color: #E85442 !important;
+        background: #fff;
+        padding: 10px 20px;
+      }
+      /* Header css end */
+
+       /* banner css start */
+    .textArea h1 {
+      font-size: 32px !important;
+      line-height: 45px !important;
+    }
+    .textArea h3 {
+      font-size: 9px !important;
+    }
+
+    .textArea p {
+      font-size: 13px !important;
+      line-height: 27.4px !important;
+    }
+   
+    .email p {
+      font-size: 13px !important;
+    }
+    .infoBanner {
+      padding: 8px 22px !important; 
+  }
+
+      .infoBanner img {
+          width: 40px !important;
+          height: 40px !important;
+          margin-top: 8px;
+          margin-left: 4px;
+        }
+        .imgArea img {
+          width: 312px !important;
+          padding-left: .9rem !important;
+        }
+
+        .textcounter h4 {
+          font-size: 19px !important;
+        }
+        .coundDownText h4{
+          font-size: 19px !important;
+        }
+        .textcounter p {
+          font-size: 12px !important;
+        }
+        .coundDownText p{
+          font-size: 12px !important;
+        }
+        .countercalander i {
+          font-size: 19px !important;
+          padding: 7px 8px !important;
+          margin-top: 8px;
+        }
+        .iconCount i{
+          font-size: 19px !important;
+          padding: 7px 8px !important;
+          margin-top: 8px;
+        }
+        .countup {
+          width: 167px !important;
+          height: 52px !important;
+          padding: 7px 10px !important;
+          left: -2px !important;
+          top: -8% !important;
+        }
+        .countdow {
+          right: 0px !important;
+          bottom: 9% !important;
+          width: 167px !important;
+          height: 52px !important;
+          padding: 7px 10px !important;
+        }
+
+        .mainBanner {
+          grid-template-columns: 100% !important;
+        }
+        #banner {
+          padding-top: 105px !important;
+        }
+  /* banner css end */
+
+
+
+   /* service part start */
+   .mainService {
+    grid-template-columns: 100% !important;
+  }
+  
+  .serviceLeft {
+    padding-top: 353px !important;
+  }
+
+  .serviceRight h2 {
+    font-size: 31px !important; 
+  }
+  .serv2 {
+    width: 100px !important;
+    height: 100px !important;
+    left: 107px !important;
+    top: 220px !important;
+  }
+  .serv2 img {
+    width: 33px !important;
+    height: auto !important;
+    top: 18% !important;
+    left: 15px !important;
+  }
+  .serv4 {
+    width: 100px !important;
+    height: 100px !important;
+    right: 33px !important;
+    top: 140px !important;
+  }
+  .serviceShape img {
+    left: 20% !important;
+  }
+  .serv1 {
+    width: 100px !important;
+    height: 100px !important;
+    right: 113px !important;
+    top: 59px !important;
+  }
+  .serv1 img {
+    width: 25px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+  .serv3 {
+    width: 100px !important;
+    height: 100px !important;
+    top: 140px !important;
+    right: 194px !important;
+  }
+  .serv3 h2 {
+    font-size: 13px !important;
+    padding-top: 47px !important;
+    padding-right: 8px !important;
+  }
+  .serv3 img {
+    width: 30px !important;
+    height: auto !important;
+    left: 17px !important;
+    top: 19% !important;
+}
+
+  .serv2 h2 {
+    font-size: 13px !important;
+    padding-top: 36px !important;
+    padding-right: 14px !important;
+  }
+
+  .serv1 h2 {
+    font-size: 13px !important;
+    padding-top: 33px !important;
+    padding-right: 16px !important;
+  }
+  .serv4 h2 {
+    font-size: 13px !important;
+    padding-top: 41px !important;
+    padding-right: 10px !important;
+  }
+
+  .serv4 img {
+    width: 30px !important;
+    height: auto !important;
+    top: 15% !important;
+    left: 16px !important;
+  }
+
+  .serviceDown h2 {
+    font-size: 15px !important;
+    font-weight: 600 !important;
+  }
+  .serviceDown p {
+    font-size: 15px !important;
+  }
+  .serviceRight p {
+    padding-bottom: 20px !important;
+    font-size: 15px !important;
+    line-height: 28.4px !important;
+  }
+
+  #service {
+    padding-top: 100px !important;
+  }
+
+  .serviceRight {
+    padding-top: 0px !important;
+  }
+
+  /* service part end */
+
+  /* experience css start */
+
+.ExperienceShape img {
+  left: 17.5% !important;
+}
+
+.mainExperience {
+grid-template-columns: 100% !important;
+
+
+}
+.textExperice h2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 20px;
+  font-size: 35px !important;
+  line-height: 56px !important;
+}
+
+.imgExperiece img {
+  width: 320px !important;
+  height: auto !important;
+}
+.col{
+display: none;
+}
+.softec{
+padding-left: 0px !important;
+}
+.softec h3 {
+font-size: 21px !important;
+line-height: 26px !important;
+padding-left: 32px;
+padding-top: 62px !important;
+}
+
+.present {
+padding-left: 2em !important;
+}
+.proExperience {
+grid-template-columns: 100% !important;
+}
+.present h3 {
+font-size: 20px !important;
+padding-top: 10px;
+}
+
+.present h4 {
+padding-top: 21px !important;
+padding-bottom: 0 !important;
+}
+
+.present ::after {
+width: 100% !important;
+top: 30px !important;
+}
+.present p {
+  font-size: 15px !important;
+}
+/* experience css end */
+
+
+/* slider css start */
+.slideText {
+  width: 401px !important;
+  height: 665px !important;
+}
+.slideText {
+  padding: 56px 38px 102px 44px !important;
+}
+
+.slideText p {
+  font-size: 12px !important;
+    line-height: 30.7px !important;
+}
+.slideText h4 {
+  font-size: 12px !important;
+  padding-left: 20px !important;
+ }
+.slideText h5 {
+  font-size: 12px !important;
+  padding-left: 19px !important;
+}
+.slick-dotted.slick-slider {
+  margin-bottom: 144px !important;
+}
+.review a i {
+  font-size: 11.26px !important;
+}
+
+#form .slick-dots li button {
+  top: -66px !important;
+  left: -28px !important;
+}
+
+.review {
+  padding-left: 20px !important;
+}
+
+.mainForm {
+  grid-template-columns: 100% !important;
+}
+
+.form input {
+  margin-bottom: 15px !important;
+}
+
+.slideText{
+  width: 319px !important;
+  height: 511px !important;
+  left: 1px !important;
+  bottom: -458px !important;
+  padding: 26px !important;
+}
+.form {
+  padding: 332px 0 !important;
+}
+
+
+/* slider css end */
+
+/* question css start */
+.quetionText h3 {
+  margin-left: 3px !important;
+  font-size: 15px !important;
+  padding-bottom: 0px !important;
+}
+.accordian ::after {
+  left: 1% !important;
+  width: 309px !important;
+  top: 47% !important;
+}
+
+.questionshpae img {
+  left: 1% !important;
+  width: 317px;
+}
+.quetionText h5 {
+  padding-left: 1rem !important;
+  font-size: 15px !important;
+  padding-top: 18px !important;
+  width: 306px !important;
+}
+
+.quetionText span {
+  margin-left: 3px !important;
+    font-size: 10px !important;
+    padding-bottom: 0px !important;
+}
+
+.quetionHeading h2 {
+  font-size: 40px !important;
+}
+/* question css end */
+
+
+
+/* latest css start */
+
+.gretest img {
+  width: 320px !important;
+    height: auto !important;
+}
+.gretest .img .btn2 {
+  left: 0px !important;
+  top: 852px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+.gretest .img .btn3 {
+  right: 197px !important;
+  top: 1479px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+.gretest .img .btn1 {
+  left: 0px !important;
+  top: 224px !important;
+  padding: 8px 24px !important;
+  font-size: 16px !important;
+}
+
+.latest h2 {
+  font-size: 58px !important;
+}
+
+
+.gretest {
+  grid-gap: 28px !important;
+  display: flex;
+  grid-template-columns: 100% !important;
+}
+.text h2 {
+  padding-top: 32px !important;
+}
+.text h2 {
+  font-size: 19px !important;
+}
+.text p {
+  font-size: 15px !important;
+}
+.text h5 {
+  font-size: 15px !important;
+}
+.latestShape img {
+  left: 1% !important;
+  width: 315px;
+}
+
+.text h6 {
+  font-size: 15px !important
+}
+/* latest css end */
+
+
+
+/* fotter css start */
+.mainfotter{
+  grid-template-columns: 49% 49% !important;
+  grid-gap: 0.5rem !important;
+}
+
+.col1 p {
+  font-size: 14px !important;
+line-height: 28.4px !important;
+}
+
+
+.col1 img {
+width: 120.62px;
+height: auto;
+}
+
+.icon a i {
+  margin-right: 17.99px !important;
+margin-bottom: 0px !important;
+}
+
+.col1 img {
+padding-bottom: 19px;
+width: 123.62px !important;
+  height: auto !important;
+}
+
+.col1 img {
+  margin-top: 28px !important;
+  padding-bottom: 9px !important;
+}
+.col1 h2 {
+  margin-top: 32px !important;
+  padding-top: 0px !important;
+}
+
+.col2 ul li a {
+  font-size: 14px !important;
+  padding: 5px 0 !important;
+}
+
+.col1 p {
+  padding-bottom: -14px !important;
+}
+
+.col1 p {
+  padding-bottom: 12px !important;
+}
+/* fotter css end */
+
+
+ /* protfolio css start */
+ .protfolioImage img {
+  width: 115px !important;
+  padding: 5px !important;
+  height: 178px !important;
+}
+
+.protfolioText button {
+  font-size: 26px !important;
+  line-height: 59px !important;
+  padding-bottom: 9px !important;
+}
+
+.mainProt {
+  padding-top: 35px !important;
+  padding-left: 55px !important;
+  padding-bottom: 35px !important;
+  margin-top: 10px;
+}
+
+.shap img {
+  left: 21.5% !important;
+}
+
+
+.protfolioText button {
+  -webkit-text-stroke: 1px #120 !important;
+}
+
+/* protfolio css end */
+
+}
+
